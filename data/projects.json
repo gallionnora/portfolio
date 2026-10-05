@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Bioinspired Storage Solution",
+    "summary": "Modeled after a pelican's gular sac, this storage compartment holds items snug and secure so they do not jostle when moved. It was part of a system where the compartment attached to a metal arm in a hard to reach place and was lowered only to be accessed. Built from laser cut, 3D printed, and purchased materials. The final product worked as intended.",
+    "tags": ["Bioinspired design", "Laser cutting", "3D printing"],
+    "image": "images/bioinspired-storage.jpg"
+  },
+  {
+    "title": "Aluminum Dogbone Testing",
+    "summary": "My team and I formed the mold for and cast a dogbone out of aluminum for our materials science class, then performed hardness and tensile testing on the specimen. This gave us a hands-on understanding of material properties and how testing is carried out.",
+    "tags": ["Materials science", "Casting", "Tensile testing"],
+    "image": "images/dogbone-testing.png"
+  },
+  {
+    "title": "Electronic Scale",
+    "summary": "My team and I used strain gauges and an aluminum bar to build an electronic scale. One button tares the scale and another switches between grams and ounces. It uses a Wheatstone bridge and soldered connections, and C++ converts the readings to mass and displays them on a connected computer. It worked for items up to 1 kg.",
+    "tags": ["Strain gauges", "C++", "Soldering"],
+    "image": "images/electronic-scale.jpg"
+  },
+  {
+    "title": "Physical Motion Rectifier",
+    "summary": "Challenged to design a machine that converts variable rotational input speed to constant rotational output speed, my team used the properties of water. It includes an Archimedes screw, bevel gears, a pulley, and modular parts that assemble and disassemble easily. Built with 3D printing, laser cutting, and iterative design.",
+    "tags": ["Iterative design", "3D printing", "Laser cutting"],
+    "image": "images/motion-rectifier.png"
+  },
+  {
+    "title": "Flapping Wing Model",
+    "summary": "With a peer, I modeled the motion of a simple flapping wing toy, accounting for damping caused by drag. The toy was built from laser cut acrylic, 3D printed hooks, a shaft, and bearings. We derived a differential algebraic equation system, solved it in MATLAB, plotted results for various initial conditions, and compared them to recorded data.",
+    "tags": ["MATLAB", "Dynamics", "Laser cutting"],
+    "image": "images/flapping-wing.jpg"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "Nora Gallion",
+  "tagline": "Mechanical engineering student at The Cooper Union, New York City.",
+  "email": "nora.lynn.gallion@gmail.com",
+  "phone": "(908) 809-2828",
+  "links": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/noragallion/" }
+  ],
+  "photo": "images/profile.jpg",
+  "photoAlt": "Nora Gallion",
+  "about": [
+    "Hi, I'm Nora Gallion. I'm from New Jersey and am a sophomore mechanical engineering student at The Cooper Union in New York City. My interest currently lies in iterative design, rapid prototyping, and green initiatives; however, I am still exploring my interests."
+  ],
+  "skills": ["Iterative Design", "Rapid Prototyping", "3D Printing", "OnShape", "Python", "AutoCAD", "SolidWorks", "C++", "Microsoft Office", "Google Suite"]
+}
