@@ -1,0 +1,40 @@
+[
+  {
+    "group": "Work",
+    "items": [
+      {
+        "dates": "Sep 2025 - Present",
+        "title": "Math Department Tutor",
+        "org": "The Cooper Union for the Advancement of Science and Art",
+        "bullets": [
+          "Provide individualized tutoring to undergraduate students with a focus on developing long-term learning strategies and confidence in tackling advanced math coursework",
+          "Facilitate drop-in support sessions in a math help room, addressing spontaneous questions and adapting explanations to diverse learning styles",
+          "Build a rapport with students, acting as both tutor and mentor to support their academic and personal development"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "Education",
+    "items": [
+      {
+        "dates": "2024 - 2028",
+        "title": "BE in Mechanical Engineering",
+        "org": "The Cooper Union for the Advancement of Science and Art",
+        "details": "Completed coursework in statics and engineering design. Coursework in dynamics, materials science, mechanics of materials, basics of electrical engineering, systems engineering, and thermodynamics to be completed before Summer 2026. To participate in the solar decathlon project in Spring 2026. Half-tuition scholarship plus a $5000 annual Innovator Scholarship."
+      },
+      {
+        "dates": "2020 - 2024",
+        "title": "Bridgewater Raritan High School",
+        "details": "Coursework in CAD, CNC, interior design, micro- and macroeconomics. Graduated top 5% of class with a 3.98 unweighted GPA. Received the President's Award for Educational Excellence, Student of the Month award, and National Merit Letter of Commendation."
+      }
+    ]
+  },
+  {
+    "group": "Leadership",
+    "items": [
+      { "dates": "Sep 2024 - Present", "title": "Member, American Society of Mechanical Engineers" },
+      { "dates": "Sep 2024 - Present", "title": "Member, Society of Women Engineers" }
+    ]
+  }
+]
